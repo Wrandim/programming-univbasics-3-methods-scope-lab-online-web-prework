@@ -14,7 +14,7 @@ def link
 end
 
 def any_phrase(phrase) #takes in an argument and puts out the catch phrase
-  phrase = "Do a Barrel Roll!\n"
+  phrase = "Do A Barrel Roll!\n"
   puts " #{phrase}"
   
 end
