@@ -15,7 +15,6 @@ end
 
 def any_phrase
   phrase = "Do a Barrel Roll!\n"
-  puts "takes is an argument and puts out the catch phrase"
   puts any_phrase
 end
 
